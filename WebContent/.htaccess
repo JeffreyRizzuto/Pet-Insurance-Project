@@ -1,0 +1,3 @@
+RewriteEngine on
+ 
+FallbackResource /cs3743Team06/index.php

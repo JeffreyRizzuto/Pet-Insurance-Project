@@ -1,0 +1,27 @@
+LAST_NAME_TOO_SHORT Your last name is too short.
+FIRST_NAME_EMPTY Must provide a first name.
+FIRST_NAME_HAS_INVALID_CHARS Your first name contains invalid characters.
+LAST_NAME_HAS_INVALID_CHARS Your last name contains invalid characters.
+USER_NAME_EMPTY You must provide a user name.
+USER_NAME_HAS_INVALID_CHARS Your user name can only contain letters, numbers, dashes and underscores.
+PASSWORD_EMPTY Password is empty.
+PASSWORD_TOO_SHORT Password is too short.
+INVALID_WEBSITE You provided an invalid url.
+EMAIL_EMPTY Must provide an email.
+EMAIL_INVALID Must provide a valid email address. example@example.com.
+GENDER_EMPTY Must provide a gender.
+LAST_NAME_EMPTY Must provide a last name.
+PASSWORD_HAS_INVALID_CHARS Your password cannot contain invalid characters.
+INVALID_PHONENUMBER Must provide a valid Phone Number. xxx-xxx-xxxx
+BIRTHDAY_EMPTY Must provide a birthday.
+MOVIE_ERROR Movie does not exist.
+TYPE_EMPTY Must provide the type of entertainment.
+INVALID_YEAR You have provided an invalid year.
+EMPTY_TITLE Must provide a movie title.
+USER_NAME_DOES_NOT_EXIST Your username or password is incorrect.
+PASSWORD_DOES_NOT_EXIST Your username or password is incorrect.
+USER_INVALID You have provided an invalid user.
+USER_NAME_ALREADY_EXIST User name already exist.
+USER_DOES_NOT_EXIST The user does not exist
+USER_COULD_NOT_BE_UPDATED The user could not be updated. 
+LIST_INVALID List invalid.
